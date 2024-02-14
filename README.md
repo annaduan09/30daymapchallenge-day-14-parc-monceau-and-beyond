@@ -30,8 +30,8 @@ The challenge for this map was not only in the visualization but also in capturi
 Created by Anna Duan
 
 - LinkedIn: [Anna Duan](https://linkedin.com/in/annaduan)
-- GitHub: [anaduan](https://github.com/annaduan)
-- Data and Visualization Portfolio: [anaduan.geojson](https://annaduan.geojson)
+- GitHub: [annaduan09](https://github.com/annaduan09)
+- Data and Visualization Portfolio: [annaduan.geojson](https://annaduan.geojson)
 
 ---
 
