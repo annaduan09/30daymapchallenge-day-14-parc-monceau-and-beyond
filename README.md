@@ -4,7 +4,7 @@
 
 This repository is part of the `#30DayMapChallenge Day 14: Europe 🇪🇺` and showcases a map featuring the parks and green spaces in Paris, France. The map highlights the extensive array of greenery within the city, including famous areas like Parc Monceau, Jardin du Luxembourg, Champs-Élysées, and Jardin d'Hiver, which have been immortalized in French music and culture.
 
-![Map of Paris Parks and Green Spaces](paris parks.jpg)
+![Map of Paris Parks and Green Spaces](https://github.com/annaduan09/30daymapchallenge-day-14-parc-monceau-and-beyond/blob/c4087b39b99f26e10a4abaf6f77b39cad282a068/paris%20parks.jpg)
 
 ## Data Sources
 
